@@ -59,7 +59,6 @@
 ### 🔹 Hand Gesture Recognition System
 - MediaPipe + LSTM 기반 제스처 인식 시스템 개발  
 - 정확도 92% 달성  
-- GitHub: https://github.com/yourname/gesture-project  
 
 ### 🔹 E-commerce Recommendation System
 - 협업 필터링 기반 추천 시스템 구현  
@@ -72,7 +71,6 @@
   - 고등학생 대상 입시 설명 및 학교 홍보 활동 수행
   - 학교 공식 홍보 콘텐츠 기획 및 제작 참여
   - ‘마인드스톰’ 키트를 활용한 전공체험 활동 진행
-  - 기술을 비전공자에게 쉽게 설명하는 커뮤니케이션 역량 강화 
 
 - **광운대학교 학생회 홍보국 (2025 ~ 2026)**
   - 교내 행사 포스터 및 SNS 콘텐츠 디자인 제작
