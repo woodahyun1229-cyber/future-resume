@@ -11,8 +11,8 @@
 
 📧 woodahyun1229@gmail.com  
 🎂 2005.12.29  
-💻 [GitHub](https://github.com/woodahyun1229)  
-🏫 [정보융합학부](https://ic.kw.ac.kr/main/main.php)
+💻 [GitHub](https://github.com/woodahyun1229-cyber)  
+🏫 광운대학교 [정보융합학부](https://ic.kw.ac.kr/main/main.php)
 
 </div>
 </div>
@@ -45,11 +45,11 @@
 ---
 
 ## 💼 Internship Experience
-- **NAVER AI Lab Intern (2025.07 ~ 2025.12)**  
+- **NAVER AI Lab Intern (2026.07 ~ 2026.12)**  
   - 추천 시스템 개선 프로젝트 참여  
   - 사용자 행동 데이터 분석 및 모델 성능 15% 향상  
 
-- **Kakao Data Intern (2024.01 ~ 2024.06)**  
+- **Kakao Data Intern (2027.01 ~ 2027.06)**  
   - 데이터 파이프라인 구축  
   - 실시간 로그 처리 시스템 개발  
 
@@ -113,10 +113,5 @@
 ## 🏆 Awards
 - 2027 AI 해커톤 대상  
 - 데이터 분석 공모전 최우수상  
-
----
-
-## 🔗 Links
-- GitHub: https://github.com/woodahyun1229  
 
 ---
