@@ -7,6 +7,9 @@
 ## Name
 우다현
 
+## Birth
+2005. 12. 29.
+
 ## Email
 woodahyun1229@gmail.com
 
@@ -33,7 +36,7 @@ woodahyun1229@gmail.com
 ---
 
 ## Education
-- 광운대학교 정보융합학부 (2024 ~ 2028)
+- 광운대학교 정보융합학부(https://ic.kw.ac.kr/main/main.php) (2024 ~ 2028)
 - GPA: 4.2 / 4.5
 
 ---
