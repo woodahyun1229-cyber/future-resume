@@ -39,12 +39,12 @@ woodahyun1229@gmail.com
 ---
 
 ## Internship Experience
-- **NAVER AI Lab Intern (2025.07 ~ 2025.12)**
+- **NAVER AI Lab Intern (2026.07 ~ 2026.12)**
   - 추천 시스템 개선 프로젝트 참여
   - 사용자 행동 데이터 분석 및 모델 성능 15% 향상
   - 사용자 경험(UX)을 고려한 추천 로직 개선
 
-- **Kakao Data Intern (2024.01 ~ 2024.06)**
+- **Kakao Data Intern (2027.01 ~ 2027.06)**
   - 데이터 파이프라인 구축
   - 실시간 로그 처리 시스템 개발
   - 대규모 데이터 처리 환경에서의 안정성 확보
@@ -57,7 +57,7 @@ woodahyun1229@gmail.com
 - MediaPipe + LSTM 기반 제스처 인식 시스템 개발
 - 정확도 92% 달성
 - 실시간 인터랙션 가능한 AI 시스템 구현
-- GitHub: https://github.com/yourname/gesture-project
+- GitHub: https://github.com/woodahyun1229/gesture-project
 
 ### 🔹 E-commerce Recommendation System
 - 협업 필터링 기반 추천 시스템 구현
