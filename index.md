@@ -1,4 +1,3 @@
-[Minima](https://github.com/jekyll/minima)
 # Future Resume - AI Engineer & Creative Technologist
 
 <p align="center">
