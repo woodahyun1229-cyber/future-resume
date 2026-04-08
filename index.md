@@ -7,7 +7,7 @@
 
 <div style="line-height:1.8;">
 
-<h3 style="margin:0;">👤 우다현</h3>
+<h2 style="margin:0;">👤 우다현</h2>
 
 <p>
 📧 woodahyun1229@gmail.com<br>
