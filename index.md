@@ -1,15 +1,16 @@
 # 🚀 Future Resume  
 ## AI Engineer & Creative Technologist
 
-<div style="display:flex; align-items:center; background:white; padding:20px; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+<div style="display:flex; align-items:center; justify-content:flex-start; background:white; padding:25px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.08); max-width:800px; margin:auto;">
 
-<img src="profile.jpg" width="160" style="border-radius:10px; margin-right:25px;">
+<img src="profile.jpg" width="150" style="border-radius:12px; margin-right:30px;">
 
-<div style="line-height:1.8;">
+<div style="line-height:2;">
 
-<h2 style="margin:0;">👤 우다현</h1>
+<h2 style="margin:0;">👤 우다현</h2>
+<p style="margin:5px 0; color:#2e7d5b;"><b>AI Engineer & Creative Technologist</b></p>
 
-<p>
+<p style="margin-top:10px;">
 📧 woodahyun1229@gmail.com<br>
 🎂 2005.12.29<br>
 💻 <a href="https://github.com/woodahyun1229">GitHub</a><br>
