@@ -7,9 +7,6 @@
 ## Name
 우다현
 
-## Birth
-2005. 12. 29.
-
 ## Email
 woodahyun1229@gmail.com
 
