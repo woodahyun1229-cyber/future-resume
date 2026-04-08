@@ -10,10 +10,12 @@
 <h2 style="margin:0;">👤 우다현</h2>
 
 <p>
+  
 📧 woodahyun1229@gmail.com<br>
 🎂 2005.12.29<br>
 💻 <a href="https://github.com/woodahyun1229">GitHub</a><br>
 🏫 <a href="https://ic.kw.ac.kr/main/main.php">광운대학교 정보융합학부</a>
+
 </p>
 
 </div>
