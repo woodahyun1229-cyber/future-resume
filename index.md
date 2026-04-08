@@ -3,21 +3,21 @@
 
 <div style="display:flex; align-items:center; background:white; padding:20px; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
 
-<img src="profile.jpg" width="180" style="border-radius:10px; margin-right:20px;">
+<img src="profile.jpg" width="160" style="border-radius:10px; margin-right:25px;">
 
-<div>
+<div style="line-height:1.8;">
 
-### 👤 우다현  
+<h3 style="margin:0;">👤 우다현</h3>
 
-📧 woodahyun1229@gmail.com  
-🎂 2005.12.29  
-💻 [GitHub](https://github.com/woodahyun1229-cyber)  
-🏫 광운대학교 [정보융합학부](https://ic.kw.ac.kr/main/main.php)
+<p>
+📧 woodahyun1229@gmail.com<br>
+🎂 2005.12.29<br>
+💻 <a href="https://github.com/woodahyun1229">GitHub</a><br>
+🏫 <a href="https://ic.kw.ac.kr/main/main.php">광운대학교 정보융합학부</a>
+</p>
 
 </div>
 </div>
-
----
 
 ## 🧑‍💻 About Me
 데이터, 인공지능, 그리고 디자인을 결합하여  
