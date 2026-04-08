@@ -13,7 +13,7 @@
 <p style="margin-top:10px;">
 📧 woodahyun1229@gmail.com<br>
 🎂 2005.12.29<br>
-💻 <a href="[https://github.com/woodahyun1229-cyber](https://github.com/woodahyun1229-cyber)">GitHub</a><br>
+💻 <a href="https://github.com/woodahyun1229-cyber">GitHub</a>
 🏫 <a href="https://ic.kw.ac.kr/main/main.php">광운대학교 정보융합학부</a>
 </p>
 
