@@ -12,7 +12,7 @@ woodahyun1229@gmail.com
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 데이터, 인공지능, 그리고 디자인을 결합하여  
 **사람에게 직관적으로 이해되고 실제로 사용되는 AI 시스템을 만드는 것**을 목표로 합니다.  
 
@@ -88,16 +88,17 @@ woodahyun1229@gmail.com
 
 ---
 
-## 🤝 Volunteer Experience
+## Volunteer Experience
 
 - **인공지능융합대학 봉사 동아리 ‘소원’ (2026 ~ 2027)**
+  
   - 지역 사회를 위한 AI 교육 봉사 활동 참여
   - 청소년 대상 기초 프로그래밍 및 인공지능 개념 교육 진행
   - 기술을 사회에 환원하는 경험을 통해 사회적 책임 의식 강화
 
 ---
 
-## 🛠 Skills
+## Skills
 
 - **AI & Data**
   - Python
